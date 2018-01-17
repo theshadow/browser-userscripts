@@ -1,6 +1,5 @@
-* Web Userscripts
+* Browser Userscripts
 
 A collection of tampermonkey/greasemonkey scripts that I've written to help make the web less shitty. To use any of these you'll need a modern browser with either Tampermonkey or Greasemonkey installed.
 
 - reddit-reg-buster.js :: Removes the registration nag screen and restores scrolling.
-- 
